@@ -3,7 +3,7 @@ Add this to your HTML <head>:
     <link rel="icon" href="/favicon.ico" sizes="any">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
 
-Add this to your app's manifest.json:
+Add this to your app's https://github.com/epicstudios856/Vectras-VM-Android.gitmanifest.json:
 
     ...
     {
